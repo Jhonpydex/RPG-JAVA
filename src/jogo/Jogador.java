@@ -1,7 +1,6 @@
 package jogo;
 import java.util.ArrayList;
 import java.util.List;
-
 //2
 public class Jogador extends Personagem{
     public int gold = 0;
