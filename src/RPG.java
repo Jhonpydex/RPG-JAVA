@@ -2,12 +2,7 @@ import jogo.EventoAleatorio;
 import jogo.Jogador;
 import jogo.RPGClasses;
 import java.util.Scanner;
-/*Objetivo do main agora:
-Anunciar o nome do jogo.
-Mostrar as classes disponíveis (de forma dinâmica, sem repetir código).
-Permitir que o jogador escolha uma classe.
-Criar o personagem com base na escolha.
-Preparar o terreno pro loop principal (que virá depois).*/
+
 public class RPG{
     public static void main(String[] args){
         Jogador jogador = new Jogador();
