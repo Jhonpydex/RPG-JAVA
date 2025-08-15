@@ -1,5 +1,4 @@
 package jogo.inimigos_Bronze;
-
 import jogo.Inimigo;
 
 public class Goblin extends Inimigo{
