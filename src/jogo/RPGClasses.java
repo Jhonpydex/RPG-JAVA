@@ -1,16 +1,4 @@
 package jogo;
-/*Etapa 3: Classe RPGClasses (Aplicar atributos)
-🎯 Objetivo:
-Criar uma classe utilitária que aplica os atributos conforme a classe escolhida.
-📋 O que ela precisa conter:
-Método estático AplicarClasse(Jogador jogador, String classeEscolhida)
-Lógica de switch para definir:
-Nome da classe
-Atributos (ataque, defesa, hp)
-Itens iniciais no inventário
-🧠 Dica de raciocínio:
-Essa classe é como um sistema de configuração.
-Você pode pensar em como deixar ela flexível pra adicionar novas classes no futuro.*/
 //3
 public class RPGClasses {
  public static void AplicarClasse(Jogador jogador, int classeEscolhida){
