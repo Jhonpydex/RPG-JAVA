@@ -3,7 +3,6 @@ package jogo;
 import jogo.inimigos_Bronze.Esqueleto;
 import jogo.inimigos_Bronze.Goblin;
 import jogo.inimigos_Bronze.Slime;
-
 import java.util.Random;
 
 public class EventoAleatorio {
