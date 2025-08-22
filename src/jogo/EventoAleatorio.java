@@ -23,6 +23,7 @@ public class EventoAleatorio {
                 System.out.println("Você não encotrou nada!");
                 break;
         }
+        //fazer o encontrar inimigo dentro do evento aleaório e dentro dele um switch próprio de classe de imimigo de Bronze
          int evento2 = rool.nextInt(3);
         Inimigo inimigoSorteado = null;
         switch(evento2) {
